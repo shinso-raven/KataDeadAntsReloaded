@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>MyBenchmarks.DeadAntsBenchmark-20240606-172126</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.13.12, Windows 11 (10.0.22635.2915)
+Intel Core i5-10400 CPU 2.90GHz, 1 CPU, 12 logical and 6 physical cores
+.NET SDK 8.0.204
+  [Host]   : .NET 8.0.4 (8.0.424.16909), X64 RyuJIT AVX2
+  ShortRun : .NET 8.0.4 (8.0.424.16909), X64 RyuJIT AVX2
+</code></pre>
+<pre><code>Job=ShortRun  IterationCount=3  LaunchCount=1  
+WarmupCount=3  
+</code></pre>
+
+<table>
+<thead><tr><th>Method</th><th>_hormigas     </th><th>Mean</th><th>Error</th><th>StdDev</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>Hormigas_uno</td><td>...an(...)nt..t [53]</td><td>70.121 ns</td><td>13.1191 ns</td><td>0.7191 ns</td><td>-</td>
+</tr><tr><td>Hormigas_uno</td><td>...a(...)t..t [106]</td><td>145.971 ns</td><td>31.8831 ns</td><td>1.7476 ns</td><td>-</td>
+</tr><tr><td>Hormigas_uno</td><td>a</td><td>1.630 ns</td><td>10.1216 ns</td><td>0.5548 ns</td><td>-</td>
+</tr><tr><td>Hormigas_uno</td><td>ant</td><td>6.630 ns</td><td>0.4317 ns</td><td>0.0237 ns</td><td>-</td>
+</tr></tbody></table>
+</body>
+</html>

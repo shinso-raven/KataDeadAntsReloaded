@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>MyBenchmarks.Md5VsSha256-20240606-170633</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.13.12, Windows 11 (10.0.22635.2915)
+Intel Core i5-10400 CPU 2.90GHz, 1 CPU, 12 logical and 6 physical cores
+.NET SDK 8.0.204
+  [Host]     : .NET 8.0.4 (8.0.424.16909), X64 RyuJIT AVX2
+  DefaultJob : .NET 8.0.4 (8.0.424.16909), X64 RyuJIT AVX2
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method    </th><th>Mean   </th><th>Error</th><th>StdDev</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>Hormigas_uno</td><td>70.827 ns</td><td>1.1603 ns</td><td>1.5882 ns</td><td>-</td>
+</tr><tr><td>Hormigas_uno_dos</td><td>1.035 ns</td><td>0.0101 ns</td><td>0.0085 ns</td><td>-</td>
+</tr><tr><td>Hormigas_uno_tre</td><td>7.205 ns</td><td>0.0348 ns</td><td>0.0290 ns</td><td>-</td>
+</tr><tr><td>Md5</td><td>17,197.893 ns</td><td>47.9674 ns</td><td>44.8687 ns</td><td>80 B</td>
+</tr></tbody></table>
+</body>
+</html>

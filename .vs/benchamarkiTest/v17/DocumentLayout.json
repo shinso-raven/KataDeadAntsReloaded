@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programaci\u00F3n\\Tendencias desarollo de software\\benchamarkiTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80327647-DCFC-4FC3-89C7-AE55D5C9ABEE}|benchamarkiTest.csproj|c:\\users\\radha\\onedrive\\01 desarrollo\\practicas de programaci\u00F3n\\tendencias desarollo de software\\benchamarkitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80327647-DCFC-4FC3-89C7-AE55D5C9ABEE}|benchamarkiTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DC49C8-C1D5-4699-B17B-D2B00D6F4A73}|..\\hormigas\\hormigas.csproj|c:\\users\\radha\\onedrive\\01 desarrollo\\practicas de programaci\u00F3n\\tendencias desarollo de software\\hormigas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programaci\u00F3n\\Tendencias desarollo de software\\hormigas\\Program.cs",
+              "RelativeDocumentMoniker": "..\\hormigas\\Program.cs",
+              "ToolTip": "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programaci\u00F3n\\Tendencias desarollo de software\\hormigas\\Program.cs",
+              "RelativeToolTip": "..\\hormigas\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAlwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:42:10.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programaci\u00F3n\\Tendencias desarollo de software\\benchamarkiTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programaci\u00F3n\\Tendencias desarollo de software\\benchamarkiTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:41:55.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1945,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
